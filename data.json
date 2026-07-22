@@ -1,0 +1,172 @@
+{
+  "title": "涛涛的匣子",
+  "projects": [
+    {
+      "id": "01",
+      "name": "抖音",
+      "url": "https://www.douyin.com/user/你的抖音号",
+      "hue": 0.08,
+      "breatheCycle": 4.5,
+      "rotSpeed": 0.08
+    },
+    {
+      "id": "02",
+      "name": "小红书",
+      "url": "https://www.xiaohongshu.com/user/profile/你的小红书号",
+      "hue": 0.12,
+      "breatheCycle": 5.5,
+      "rotSpeed": -0.1
+    },
+    {
+      "id": "03",
+      "name": "淘宝",
+      "url": "https://www.taobao.com/wow/z/tbhome/pcsem/alimama?refpid=mm_26632360_8858797_29866178&keyword=%E5%A5%B3%E8%A3%85&bc_fl_src=tbsite_RfDql8UI&channelSrp=360Somama&qhclickid=492796ad328d1a59&clk1=ef2378c5aebd9ad6b7f06bc237925b9b&upsId=ef2378c5aebd9ad6b7f06bc237925b9b",
+      "hue": 0.16,
+      "breatheCycle": 3.8,
+      "rotSpeed": 0.12
+    },
+    {
+      "id": "04",
+      "name": "京东",
+      "url": "https://itab.link/web/jd1.html",
+      "hue": 0.06,
+      "breatheCycle": 6.0,
+      "rotSpeed": -0.06
+    },
+    {
+      "id": "05",
+      "name": "待使用",
+      "url": "#",
+      "hue": 0.10,
+      "breatheCycle": 4.2,
+      "rotSpeed": 0.09
+    },
+    {
+      "id": "06",
+      "name": "待使用",
+      "url": "#",
+      "hue": 0.14,
+      "breatheCycle": 5.0,
+      "rotSpeed": -0.11
+    },
+    {
+      "id": "07",
+      "name": "待使用",
+      "url": "#",
+      "hue": 0.05,
+      "breatheCycle": 5.2,
+      "rotSpeed": 0.07
+    },
+    {
+      "id": "08",
+      "name": "待使用",
+      "url": "#",
+      "hue": 0.11,
+      "breatheCycle": 4.8,
+      "rotSpeed": -0.09
+    },
+    {
+      "id": "09",
+      "name": "待使用",
+      "url": "#",
+      "hue": 0.15,
+      "breatheCycle": 5.4,
+      "rotSpeed": 0.1
+    },
+    {
+      "id": "10",
+      "name": "待使用",
+      "url": "#",
+      "hue": 0.07,
+      "breatheCycle": 4.6,
+      "rotSpeed": -0.08
+    },
+    {
+      "id": "11",
+      "name": "待使用",
+      "url": "#",
+      "hue": 0.13,
+      "breatheCycle": 5.1,
+      "rotSpeed": 0.06
+    },
+    {
+      "id": "12",
+      "name": "待使用",
+      "url": "#",
+      "hue": 0.09,
+      "breatheCycle": 5.3,
+      "rotSpeed": -0.12
+    },
+    {
+      "id": "13",
+      "name": "待使用",
+      "url": "#",
+      "hue": 0.17,
+      "breatheCycle": 4.4,
+      "rotSpeed": 0.11
+    },
+    {
+      "id": "14",
+      "name": "待使用",
+      "url": "#",
+      "hue": 0.04,
+      "breatheCycle": 4.9,
+      "rotSpeed": -0.05
+    },
+    {
+      "id": "15",
+      "name": "待使用",
+      "url": "#",
+      "hue": 0.55,
+      "breatheCycle": 5.6,
+      "rotSpeed": 0.04
+    },
+    {
+      "id": "16",
+      "name": "待使用",
+      "url": "#",
+      "hue": 0.58,
+      "breatheCycle": 6.2,
+      "rotSpeed": -0.06
+    },
+    {
+      "id": "17",
+      "name": "待使用",
+      "url": "#",
+      "hue": 0.62,
+      "breatheCycle": 4.8,
+      "rotSpeed": 0.05
+    },
+    {
+      "id": "18",
+      "name": "待使用",
+      "url": "#",
+      "hue": 0.65,
+      "breatheCycle": 5.4,
+      "rotSpeed": -0.07
+    },
+    {
+      "id": "19",
+      "name": "待使用",
+      "url": "#",
+      "hue": 0.52,
+      "breatheCycle": 5.1,
+      "rotSpeed": 0.03
+    },
+    {
+      "id": "20",
+      "name": "待使用",
+      "url": "#",
+      "hue": 0.60,
+      "breatheCycle": 5.8,
+      "rotSpeed": -0.04
+    }
+  ],
+  "specialProject": {
+    "name": "",
+    "url": "#",
+    "hue": 0.12,
+    "breatheCycle": 5.5,
+    "rotSpeed": 0.15
+  }
+}
